@@ -1,0 +1,25 @@
+App is running
+Thank you for using this script, enjoy!
+URL or TIME variable is empty, Skipping visit web
+Silly Development: Server marked as offline
+Silly Development: Checking server disk space usage. Please wait...
+Silly Development: Updating process configuration files. Please wait...
+Silly Development: Ensuring file permissions are set correctly. Please wait...
+Silly Development: Server marked as starting
+Silly Development: Pulling Docker container image. This may take a few minutes...
+Silly Development: Finished pulling Docker container image.
+Python 3.12.8
+:/home/container$ ${STARTUPSCRIPT}
+./temp already exists
+Skip Delete ./temp/list.txt
+./temp/sub.txt has been deleted
+./temp/swith has been deleted
+./temp/web has been deleted
+Downloaded swith successfully
+Downloaded web successfully
+Empowerment success for ./temp/./swith: 0o775
+Empowerment success for ./temp/./web: 0o775
+NEZHA variable is empty, skip running
+web is running
+CnZsZXNzOi8vODY5M2QyMmMtMDUzMy00NzU0LWIyMmYtY2Q0MGE4NzVlZTczQG4xLm1jc3QuaW86NTEyMj9lbmNyeXB0aW9uPW5vbmUmc2VjdXJpdHk9dGxzJnNuaT1uMS5tY3N0LmlvJnR5cGU9d3MmaG9zdD1uMS5tY3N0LmlvJnBhdGg9JTJGdmxlc3MlM0ZlZCUzRDIwNDgjVmxzLU5MLVJveWFsZUhvc3RpbmcKICAKICAgIA==
+./temp/sub.txt saved successfully
