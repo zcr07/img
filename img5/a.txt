@@ -1,0 +1,37 @@
+\p{Pi} 《。》，：【】 _ 匹配 下划线
+` .+\K .+`    匹配  从最左边的空格开始到最右边的空格的左边的字符
+
+# 先安装Clou@@ dfl$$$are Workers.命令 行@工$$具 wrangler see
+npm install       -g wrangler
+`(?<=&).+\K3` 匹配 &后的最后一个3
+`(?:.{3}) `  匹配 空格左边的内容 注意`) `后有个空格
+
+5@@6@@@@@@@ &3333333@3@@@@@@@@@@@@@@@@&&&&&&&@$$$&&&&&&&&&3456
+333#登录cloudflare37333
+wran&gler_lo333&33 33333333&a3333gin35
+# 下载代码
+&&@@@@@@@@33@@3@@@@@3@@@@
+#下载代码
+git c &&lone https://githu&&&&&
+@@@@@@@@@@@@@@@3#############@@@@@@@@@@@@@@@@@@@@
+#执行^^npm i 安装^库
+cd dingding & @npm i
+
+#修改wrangler.toml中 id 为你创建的KV数据库id
+kv_namespaces = [
+  { binding = "LINK", id = "111",preview_id='111'}
+` .+ `  匹配 空格右边的内容 注意` .+`前的空格
+
+Host Name : 6xrby74.tjfnfzkbii3c1tliyuwo.top
+IP Address : 107.148.89.70
+Reply IP Address : 107.148.89.70
+Succeed Count : 4
+Last Failed On :
+
+
+
+
+
+
+
+
